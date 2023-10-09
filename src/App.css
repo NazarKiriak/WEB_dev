@@ -1,0 +1,36 @@
+html {
+  background-color: rgba(0, 18, 219, 0.658);
+}
+
+.app {
+  text-align: center;
+}
+
+.header {
+  font-size: larger;
+  text-align: center
+}
+
+.body {
+  color: rgb(255, 230, 0);
+  text-align: center
+}
+
+.footer {
+  color: rgb(255, 230, 0);
+  text-align: center
+}
+
+.ul-menu {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.ul-product {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  font-size: 90;
+}
